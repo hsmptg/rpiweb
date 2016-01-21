@@ -1,0 +1,15 @@
+Flask==0.10.1
+Flask-SocketIO==2.0
+Jinja2==2.8
+MarkupSafe==0.23
+RPi.GPIO==0.6.1
+Werkzeug==0.11.3
+argparse==1.2.1
+eventlet==0.17.4
+greenlet==0.4.9
+itsdangerous==0.24
+python-engineio==0.8.6
+python-socketio==1.0
+six==1.10.0
+wheel==0.24.0
+wsgiref==0.1.2
